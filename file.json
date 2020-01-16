@@ -1,0 +1,8 @@
+{
+  "ios": {
+    "url": "https://itunes.apple.com/app/id0000000?mt=8", 
+    "minimum": 1.1, 
+    "enabled": false, 
+    "latest": 2
+  }
+}
